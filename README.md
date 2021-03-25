@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @mcedrdiego
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋, I’m <strong>Cedric MUHOZA</strong> <br>
+🎓 PhD Student <br> 
+💡 "Design of a smart multi-sensor medical device for low mobility detection"<br>
+📫 Reach out @ <a href="mailto:cedricdiego0@gmail.com">Email</a>
 
 <!---
 mcedrdiego/mcedrdiego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-I will Update this soon. Thanks for checking me out
+Thank you for checking me out
