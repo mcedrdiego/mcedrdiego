@@ -8,6 +8,6 @@ mcedrdiego/mcedrdiego is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=jackmckew&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mcedrdiego&show_icons=true)
 
 Thank you for checking me out
