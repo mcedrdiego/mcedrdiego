@@ -1,5 +1,5 @@
 👋, I’m <strong>Cedric MUHOZA</strong> <br>
-🎓 PhD Student <br> 
+🎓 Electronics Engineer, Ph.D <br> 
 💡 "Design of a smart multi-sensor medical device for low mobility"<br>
 📫 For more info reach out @<a href="mailto:cedricdiego0@gmail.com">Email</a>
 
